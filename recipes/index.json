@@ -1,0 +1,25 @@
+[
+  {
+    "slug": "black-pepper-beef-spaghetti",
+    "title": "Black Pepper Beef Tenderloin Spaghetti",
+    "title_zh": "黑椒牛柳意粉",
+    "title_su": "Spageti Daging Sapi Lada Hitam",
+    "type": "Noodles & Rice",
+    "cuisine": "Hong Kong",
+    "tags": ["beef", "spaghetti", "black pepper", "stir-fry", "weeknight", "hong-kong", "soy-sauce-western"],
+    "hero_image": "images/black-pepper-beef-spaghetti/hero.jpg",
+    "time": { "total_min": 35 },
+    "source": { "platform": "instagram" }
+  },
+  {
+    "slug": "animal-style-protein-bowl",
+    "title": "Animal Style Protein Bowl",
+    "title_su": "Mangkok Protein Animal Style",
+    "type": "Mains",
+    "cuisine": "American",
+    "tags": ["beef", "high-protein", "meal-prep", "bowl", "animal-style"],
+    "link_only": true,
+    "hero_image": "images/animal-style-protein-bowl/hero.jpg",
+    "source": { "platform": "instagram" }
+  }
+]

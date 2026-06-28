@@ -1,0 +1,47 @@
+{
+  "slug": "black-pepper-beef-spaghetti",
+  "title": "Black Pepper Beef Tenderloin Spaghetti",
+  "title_zh": "黑椒牛柳意粉",
+  "title_su": "Spageti Daging Sapi Lada Hitam",
+  "type": "Noodles & Rice",
+  "cuisine": "Hong Kong",
+  "tags": ["beef", "spaghetti", "black pepper", "stir-fry", "weeknight", "hong-kong", "soy-sauce-western"],
+  "source": {
+    "url": "https://www.instagram.com/reel/DZOomEUJTXu/",
+    "platform": "instagram",
+    "author": "@cccooocccooo_1"
+  },
+  "hero_image": "images/black-pepper-beef-spaghetti/hero.jpg",
+  "video_embed": "https://www.instagram.com/reel/DZOomEUJTXu/embed",
+  "servings": "2-3",
+  "time": { "prep_min": 20, "cook_min": 15, "total_min": 35 },
+  "ingredients": [
+    { "item": "Beef tenderloin", "item_su": "Daging sapi empuk", "qty": 300, "unit": "g", "note": "cut into strips", "note_su": "diiris dawa-dawa", "original": "牛柳" },
+    { "item": "Light soy sauce", "item_su": "Kecap asin", "qty": 15, "unit": "ml", "note": "for the marinade", "note_su": "kanggo bumbu rendheman", "original": "生抽" },
+    { "item": "Oyster sauce", "item_su": "Saus tiram", "qty": 15, "unit": "ml", "note": "for the marinade", "note_su": "kanggo bumbu rendheman", "original": "蠔油" },
+    { "item": "Sugar", "item_su": "Gulo", "qty": 4, "unit": "g", "note": "for the marinade", "note_su": "kanggo bumbu rendheman", "original": "糖" },
+    { "item": "White pepper", "item_su": "Mrico putih", "qty": 1, "unit": "g", "note": "for the marinade", "note_su": "kanggo bumbu rendheman", "original": "胡椒粉" },
+    { "item": "Cornstarch", "item_su": "Maizena", "qty": 8, "unit": "g", "note": "for the marinade", "note_su": "kanggo bumbu rendheman", "original": "生粉" },
+    { "item": "Oil", "item_su": "Lengo", "qty": 10, "unit": "ml", "note": "for the marinade", "note_su": "kanggo bumbu rendheman", "original": "油" },
+    { "item": "Spaghetti", "item_su": "Spageti", "qty": 200, "unit": "g", "note": "", "note_su": "", "original": "意粉" },
+    { "item": "Mixed bell peppers", "item_su": "Paprika werna-werni", "qty": 250, "unit": "g", "note": "red, green & yellow, sliced", "note_su": "abang, ijo, kuning, diiris", "original": "三色椒" },
+    { "item": "Onion", "item_su": "Bawang bombay", "qty": 100, "unit": "g", "note": "sliced", "note_su": "diiris", "original": "洋蔥" },
+    { "item": "Garlic", "item_su": "Bawang putih", "qty": 3, "unit": "cloves", "note": "chopped", "note_su": "dicacah", "original": "蒜頭" },
+    { "item": "Oyster sauce (sauce)", "item_su": "Saus tiram (saus)", "qty": 15, "unit": "ml", "note": "season to taste", "note_su": "atur miturut selera", "original": "蠔油" },
+    { "item": "Sweet soy sauce", "item_su": "Kecap manis", "qty": 15, "unit": "ml", "note": "season to taste", "note_su": "atur miturut selera", "original": "甜豉油" },
+    { "item": "Dark soy sauce", "item_su": "Kecap ireng (老抽)", "qty": 10, "unit": "ml", "note": "season to taste", "note_su": "atur miturut selera", "original": "老抽" },
+    { "item": "Black pepper", "item_su": "Lada hitam", "qty": "", "unit": "", "note": "to taste", "note_su": "miturut selera", "original": "黑胡椒" }
+  ],
+  "steps": [
+    { "n": 1, "text": "Cut the beef tenderloin into thin strips. Marinate with the light soy sauce, oyster sauce, sugar, white pepper, cornstarch and oil, and leave for 15 minutes.", "text_su": "Iris daging sapi dadi dawa-dawa. Lumuri nganggo kecap asin, saus tiram, gulo, mrico putih, maizena ambek lengo, terus enepno 15 menit.", "image": null },
+    { "n": 2, "text": "Cook the spaghetti in salted water until al dente, then drain and set aside.", "text_su": "Rebus spageti nang banyu sing wis diuyahi ngasi al dente, terus tirisno.", "image": null },
+    { "n": 3, "text": "Heat oil in a pan over high heat and sear the marinated beef until just browned. Remove and set aside.", "text_su": "Panasno lengo nang kuali geni gedhe, terus goreng daging sing wis dibumboni ngasi rodok coklat. Angkat, sèlèhno disik.", "image": null },
+    { "n": 4, "text": "In the same pan, sauté the chopped garlic until fragrant, then add the onion and bell peppers and stir-fry until slightly softened.", "text_su": "Nang kuali sing podo, tumis bawang putih ngasi wangi, terus lebokno bawang bombay ambek paprika, oseng ngasi rodok layu.", "image": null },
+    { "n": 5, "text": "Add the drained spaghetti. Season with oyster sauce, sweet soy sauce, dark soy sauce and black pepper, adjusting to taste, and toss to coat evenly.", "text_su": "Lebokno spageti sing wis ditirisno. Bumboni nganggo saus tiram, kecap manis, kecap ireng ambek lada hitam, atur miturut selera, terus aduk ngasi rata.", "image": null },
+    { "n": 6, "text": "Return the beef to the pan, toss everything together until hot and well combined, then plate and serve.", "text_su": "Balikno daginge nang kuali, aduk kabeh ngasi panas lan nyampur rata, terus tata nang piring, sajekno.", "image": null }
+  ],
+  "notes": "Captured from the Reel's on-screen text and cooking steps. The video lists the seasonings without exact amounts (\"season to taste\"), so the quantities here are sensible starting points — adjust the soy sauces, oyster sauce and black pepper to your preference. Marinate the beef for at least 15 minutes for tender results.",
+  "notes_su": "Dijupuk teko tulisan ambek langkah nang video. Video mung nyebutno bumbune tanpa ukuran pas (\"atur miturut selera\"), dadi ukuran nang kene mung ancer-ancer — atur kecap, saus tiram ambek lada hitam sak senengmu. Enepno daginge paling sithik 15 menit ben empuk.",
+  "added": "2026-06-28",
+  "added_by": "from @cccooocccooo_1 Reel"
+}
