@@ -29,8 +29,8 @@ const STR = {
   en: {
     tagline: 'Home Cooking',
     searchPlaceholder: 'Search recipes, ingredients…',
-    heroEyebrow: 'Recipes', heroTitle: 'Our Family Cookbook',
-    heroSub: 'Every recipe we love — pulled from across the web and socials, converted to Hong Kong metric units, and organized like a proper cookbook. Tap any card to cook.',
+    heroEyebrow: 'Recipes', heroTitle: 'The Cookbook',
+    heroSub: 'Everything worth cooking, in one place.',
     browseEyebrow: 'Browse', browseTitle: 'Categories',
     ingredients: 'Ingredients', method: 'Method', notes: 'Notes',
     servings: 'servings', prep: 'Prep', cook: 'Cook', total: 'Total',
@@ -45,8 +45,8 @@ const STR = {
   su: {
     tagline: 'Masakan Omah',
     searchPlaceholder: 'Goleki resep, bahan…',
-    heroEyebrow: 'Resep', heroTitle: 'Buku Resep Kulawarga',
-    heroSub: 'Kabeh resep sing awak dhewe seneng — dijupuk teko internet ambek sosial media, diowahi nang ukuran metrik Hong Kong, terus ditoto koyok buku resep tenanan. Pencet kartu endi ae kanggo masak.',
+    heroEyebrow: 'Resep', heroTitle: 'Buku Resep',
+    heroSub: 'Kabeh sing pantes dimasak, ngumpul nang siji panggonan.',
     browseEyebrow: 'Pilih', browseTitle: 'Kategori',
     ingredients: 'Bahan-bahan', method: 'Carane Masak', notes: 'Cathetan',
     servings: 'porsi', prep: 'Nyiapno', cook: 'Masak', total: 'Total',
