@@ -12,6 +12,17 @@
     "source": { "platform": "instagram" }
   },
   {
+    "slug": "street-corn-chicken-wrap",
+    "title": "Street Corn Chicken Wrap",
+    "title_su": "Wrap Pitik Jagung Manis",
+    "type": "Mains",
+    "cuisine": "American",
+    "tags": ["chicken", "high-protein", "wrap", "corn", "meal-prep", "lunch", "quick"],
+    "hero_image": "images/street-corn-chicken-wrap/hero.jpg",
+    "time": { "total_min": 25 },
+    "source": { "platform": "instagram" }
+  },
+  {
     "slug": "animal-style-protein-bowl",
     "title": "Animal Style Protein Bowl",
     "title_su": "Mangkok Protein Animal Style",

@@ -1,0 +1,36 @@
+{
+  "slug": "street-corn-chicken-wrap",
+  "title": "Street Corn Chicken Wrap",
+  "title_su": "Wrap Pitik Jagung Manis",
+  "type": "Mains",
+  "cuisine": "American",
+  "tags": ["chicken", "high-protein", "wrap", "corn", "meal-prep", "lunch", "quick"],
+  "source": {
+    "url": "https://www.instagram.com/reel/DX716w3A_Iq/",
+    "platform": "instagram",
+    "author": "@theproteindad"
+  },
+  "hero_image": "images/street-corn-chicken-wrap/hero.jpg",
+  "video_embed": "https://www.instagram.com/reel/DX716w3A_Iq/embed",
+  "servings": "1-2",
+  "time": { "prep_min": 10, "cook_min": 15, "total_min": 25 },
+  "ingredients": [
+    { "item": "Chicken breast", "item_su": "Dada pitik", "qty": 200, "unit": "g", "note": "air-fried, then diced or shredded", "note_su": "digoreng air fryer, terus dicacah utowo disuwir", "original": "air-fried chicken" },
+    { "item": "Sweet corn", "item_su": "Jagung manis", "qty": 100, "unit": "g", "note": "canned or grilled", "note_su": "kalengan utowo dibakar", "original": "sweet corn" },
+    { "item": "Lettuce", "item_su": "Selada", "qty": 30, "unit": "g", "note": "shredded", "note_su": "diiris alus", "original": "lettuce" },
+    { "item": "Greek yogurt", "item_su": "Yogurt Yunani", "qty": 60, "unit": "g", "note": "binds it like a street-corn crema", "note_su": "kanggo ngiket koyok saus street corn", "original": "Greek yogurt" },
+    { "item": "Tajín seasoning", "item_su": "Bumbu Tajín", "qty": "", "unit": "", "note": "to taste", "note_su": "miturut selera", "original": "tajín" },
+    { "item": "Large tortilla", "item_su": "Tortilla gedhe", "qty": 1, "unit": "piece", "note": "", "note_su": "", "original": "wrap" }
+  ],
+  "steps": [
+    { "n": 1, "text": "Season the chicken breast and air-fry until cooked through and crisp, then dice or shred it.", "text_su": "Bumboni dada pitik, terus goreng nang air fryer ngasi mateng lan garing, terus cacah utowo suwir.", "image": null },
+    { "n": 2, "text": "In a bowl, mix the chicken with the sweet corn, shredded lettuce, Greek yogurt and a generous sprinkle of tajín until everything is coated.", "text_su": "Nang mangkok, campur pitik mau ambek jagung manis, selada sing diiris, yogurt Yunani, ambek taburan tajín sing akeh ngasi rata.", "image": null },
+    { "n": 3, "text": "Pile the filling onto a large tortilla, fold in the sides, and roll it up tight.", "text_su": "Tata isine nang tortilla gedhe, lempit sisihe, terus gulung sing kenceng.", "image": null },
+    { "n": 4, "text": "Pan-sear the wrap over medium heat, seam-side down first, until golden and crisp on both sides.", "text_su": "Sangrai wrap-e nang kuali geni sedheng, sisih lempitan ndhisik, ngasi coklat keemasan lan garing loro-lorone.", "image": null },
+    { "n": 5, "text": "Cut in half and serve. Tastes like street corn — about 45g protein per wrap.", "text_su": "Kethok dadi loro, sajekno. Rasane koyok street corn — kiro-kiro 45g protein saben wrap.", "image": null }
+  ],
+  "notes": "Captured from the Reel's caption and video. The creator lists the ingredients but not exact amounts (the measured recipe is DM'd if you comment “CORN”), so the quantities here are sensible starting points — adjust the Greek yogurt and tajín to taste. ~45g protein per wrap.",
+  "notes_su": "Dijupuk teko caption ambek video. Sing nggawe nyebutno bahane tapi gak nyebutno ukuran pas (resep lengkap dikirim liwat DM nek komentar “CORN”), dadi ukuran nang kene mung ancer-ancer — atur yogurt Yunani ambek tajín miturut selera. ~45g protein saben wrap.",
+  "added": "2026-06-29",
+  "added_by": "from @theproteindad Reel"
+}
