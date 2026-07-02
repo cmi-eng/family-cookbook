@@ -1,0 +1,52 @@
+{
+  "slug": "crispy-smashed-potato-chicken-salad",
+  "title": "Crispy Smashed Potato Chicken Salad",
+  "title_su": "Salad Pitik Kentang Gepuk Garing",
+  "type": "Mains",
+  "cuisine": "British",
+  "tags": ["chicken", "potato", "salad", "high-protein", "meal-prep", "healthy"],
+  "source": {
+    "url": "https://www.instagram.com/reel/DZsBFoGsmy5/",
+    "platform": "instagram",
+    "author": "@jclarke_fitness"
+  },
+  "hero_image": "images/crispy-smashed-potato-chicken-salad/hero.jpg",
+  "video_embed": "https://www.instagram.com/reel/DZsBFoGsmy5/embed",
+  "servings": "2",
+  "time": { "prep_min": 15, "cook_min": 30, "total_min": 45 },
+  "ingredients": [
+    { "item": "Baby potatoes", "item_su": "Kentang baby", "qty": 500, "unit": "g", "note": "main", "note_su": "utama", "original": "500 g" },
+    { "item": "Chicken breast", "item_su": "Dada pitik", "qty": 250, "unit": "g", "note": "main · weighed raw", "note_su": "utama · ditimbang mentah", "original": "250 g raw" },
+    { "item": "Cucumber", "item_su": "Timun", "qty": 0.25, "unit": "", "note": "main · diced", "note_su": "utama · diiris", "original": "1/4" },
+    { "item": "Red onion", "item_su": "Bawang abang", "qty": 0.25, "unit": "", "note": "main · finely diced", "note_su": "utama · diiris alus", "original": "1/4" },
+    { "item": "Spring onion", "item_su": "Godhong bawang", "qty": 0.5, "unit": "", "note": "main · finely sliced", "note_su": "utama · diiris alus", "original": "1/2" },
+    { "item": "Spray oil", "item_su": "Lengo spray", "qty": "", "unit": "", "note": "main · for crisping", "note_su": "utama · kanggo nggarangno", "original": "spray" },
+    { "item": "Salt", "item_su": "Uyah", "qty": "", "unit": "", "note": "potato + chicken seasoning · to taste", "note_su": "bumbu kentang + pitik · miturut selera", "original": "to taste" },
+    { "item": "Black pepper", "item_su": "Mrico", "qty": "", "unit": "", "note": "potato + chicken seasoning", "note_su": "bumbu kentang + pitik", "original": "to taste" },
+    { "item": "Garlic powder", "item_su": "Bubuk bawang putih", "qty": "", "unit": "", "note": "potato + chicken seasoning", "note_su": "bumbu kentang + pitik", "original": "to taste" },
+    { "item": "Smoked paprika", "item_su": "Paprika asap", "qty": "", "unit": "", "note": "potato + chicken seasoning", "note_su": "bumbu kentang + pitik", "original": "to taste" },
+    { "item": "Fat-free Greek yoghurt", "item_su": "Yogurt Yunani (0%)", "qty": 160, "unit": "g", "note": "sauce", "note_su": "saus", "original": "160 g" },
+    { "item": "Light mayonnaise", "item_su": "Mayo light", "qty": 80, "unit": "g", "note": "sauce", "note_su": "saus", "original": "80 g" },
+    { "item": "Dijon mustard", "item_su": "Mustard Dijon", "qty": 10, "unit": "g", "note": "sauce", "note_su": "saus", "original": "10 g" },
+    { "item": "Pickles", "item_su": "Acar timun", "qty": 30, "unit": "g", "note": "sauce · finely chopped", "note_su": "saus · dicacah alus", "original": "30 g" },
+    { "item": "Pickle juice", "item_su": "Banyu acar", "qty": 2, "unit": "tsp", "note": "sauce", "note_su": "saus", "original": "2 tsp" },
+    { "item": "Lemon juice", "item_su": "Banyu jeruk lemon", "qty": 0.25, "unit": "lemon", "note": "sauce", "note_su": "saus", "original": "1/4 lemon" },
+    { "item": "Garlic powder", "item_su": "Bubuk bawang putih", "qty": "", "unit": "", "note": "sauce", "note_su": "saus", "original": "to taste" },
+    { "item": "Salt", "item_su": "Uyah", "qty": "", "unit": "", "note": "sauce", "note_su": "saus", "original": "to taste" },
+    { "item": "Black pepper", "item_su": "Mrico", "qty": "", "unit": "", "note": "sauce", "note_su": "saus", "original": "to taste" },
+    { "item": "Fresh chives", "item_su": "Godhong kucai", "qty": "", "unit": "", "note": "topping · extra", "note_su": "topping · tambahan", "original": "extra" },
+    { "item": "Smoked paprika", "item_su": "Paprika asap", "qty": "", "unit": "", "note": "topping · a pinch", "note_su": "topping · sak jumput", "original": "pinch" }
+  ],
+  "steps": [
+    { "n": 1, "text": "Cook the baby potatoes until fork-tender (microwave or boil), then lightly smash each one flat.", "text_su": "Masak kentang baby ngasi empuk (microwave utowo digodhok), terus gepuk siji-siji ngasi ceper.", "image": null },
+    { "n": 2, "text": "Spray the smashed potatoes with oil, season with salt, pepper, garlic powder and smoked paprika, and roast in a hot oven or air-fryer until golden and crispy.", "text_su": "Semprot kentang gepuk nganggo lengo, bumboni uyah, mrico, bubuk bawang putih, ambek paprika asap, terus panggang nang oven panas utowo air fryer ngasi kuning garing.", "image": null },
+    { "n": 3, "text": "Season the chicken breast with the same spices, cook it through (pan or air-fryer), then dice.", "text_su": "Bumboni dada pitik nganggo bumbu sing podo, masak ngasi mateng (kuali utowo air fryer), terus iris dadu.", "image": null },
+    { "n": 4, "text": "Make the sauce: mix the Greek yoghurt, light mayo, Dijon mustard, chopped pickles, pickle juice, lemon juice, garlic powder, salt and pepper.", "text_su": "Gawe saus: campur yogurt Yunani, mayo light, mustard Dijon, acar timun sing dicacah, banyu acar, banyu jeruk lemon, bubuk bawang putih, uyah, ambek mrico.", "image": null },
+    { "n": 5, "text": "In a bowl, combine the crispy potatoes, chicken, cucumber, red onion and spring onion, then fold through the sauce.", "text_su": "Nang mangkok, campur kentang garing, pitik, timun, bawang abang, ambek godhong bawang, terus aduk karo sause.", "image": null },
+    { "n": 6, "text": "Top with extra chives and a pinch of smoked paprika. Serves 2 — about 483 cal and 44g protein each.", "text_su": "Taburi godhong kucai ambek sak jumput paprika asap. Dadi 2 porsi — kiro-kiro 483 kalori ambek 44g protein saben porsi.", "image": null }
+  ],
+  "notes": "Ingredients and macros are from the creator's caption; the method is reconstructed from the dish, since the caption lists the ingredients without step timings. Cook the potatoes until tender before smashing and crisping. Serves 2 — ~483 cal / 44g protein each.",
+  "notes_su": "Bahan ambek makro teko caption sing nggawe; carane direkonstruksi teko dhise amergo caption mung nyebutno bahan tanpa langkah rinci. Masak kentange ngasi empuk sakdurunge digepuk lan digarangno. Dadi 2 porsi — ~483 kalori / 44g protein saben porsi.",
+  "added": "2026-06-29",
+  "added_by": "from @jclarke_fitness Reel"
+}

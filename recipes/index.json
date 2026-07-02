@@ -34,6 +34,17 @@
     "source": { "platform": "instagram" }
   },
   {
+    "slug": "crispy-smashed-potato-chicken-salad",
+    "title": "Crispy Smashed Potato Chicken Salad",
+    "title_su": "Salad Pitik Kentang Gepuk Garing",
+    "type": "Mains",
+    "cuisine": "British",
+    "tags": ["chicken", "potato", "salad", "high-protein", "meal-prep", "healthy"],
+    "hero_image": "images/crispy-smashed-potato-chicken-salad/hero.jpg",
+    "time": { "total_min": 45 },
+    "source": { "platform": "instagram" }
+  },
+  {
     "slug": "animal-style-protein-bowl",
     "title": "Animal Style Protein Bowl",
     "title_su": "Mangkok Protein Animal Style",
